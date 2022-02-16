@@ -1,0 +1,17 @@
+image: 
+  name: klakegg/hugo:0.91.2-ext-ubuntu
+  entrypoint: [""]
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  script:
+  - npm install
+  - hugo --gc --baseURL https://writeonlyhugo.gitlab.io/up-business-demo/
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
