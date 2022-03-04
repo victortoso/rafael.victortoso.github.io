@@ -91,6 +91,3 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
-
-build:
-  writeStats: false
