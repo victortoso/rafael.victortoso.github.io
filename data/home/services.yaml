@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Áreas de atuação"
+  text: "Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário."
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/farol.png"
+      title: "Advogado"
+      text: "Com foco em direito civíl, tributário, empresárial e constitucional."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Saiba mais"
+        url: "https://rafaeltoso.adv.br"
+
+    - image: "images/casa.png"
+      title: "Corretor de imóveis"
+      text: "Atuando na Compra, Venda e Alugel para pessoas físicas e Jurídicas."
+      button:
+        label: "Saiba mais"
+        url: "https://imoveisdivinos.com"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Professor"
+      text: "Auxiliando na preparação de concursos públicos."
       button:
-        label: "Learn more"
-        url: "#"
-
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+        label: "Saiba mais"
+        url: "https://iurisacademy.com"
