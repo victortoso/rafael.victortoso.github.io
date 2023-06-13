@@ -25,3 +25,10 @@ content:
       button:
         label: "Saiba mais"
         url: "https://iurisacademy.com"
+
+    - image: "images/services-web-development.png"
+      title: "Irmão"
+      text: "Iniciante jogador de Go, mas 9-dan em direito tributário. Iniciante jogador de Go, mas 9-dan em direito tributário."
+      button:
+        label: "Saiba mais"
+        url: "https://iurisacademy.com"
